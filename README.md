@@ -1,11 +1,3 @@
-<!--
-  This is your GitHub PROFILE README.
-  To show it on your profile page, create a PUBLIC repo named EXACTLY:  zenith-nguyen
-  (same as your username), and put this file at its root as README.md.
-
-  Edit the bracketed bits (employer/title/city) to taste before publishing.
--->
-
 <h1>Hi, I'm Zenith 👋</h1>
 
 **Tech-driven Product Manager — Fintech · System Architecture, Data & Automation** · Ho Chi Minh City, Vietnam 🇻🇳
