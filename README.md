@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zenith 👋</h1>
+# Hi, I'm Zenith 👋
 
 **Tech-driven Product Manager — Fintech · System Architecture, Data & Automation** · Ho Chi Minh City, Vietnam 🇻🇳
 
