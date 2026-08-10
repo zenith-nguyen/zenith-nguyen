@@ -3,7 +3,26 @@
 **Tech-driven Product Manager — Fintech · User Centric, Business, Data & Automation**  
 Ho Chi Minh City, Vietnam 🇻🇳
 
-I sit at the intersection of **product and engineering** — turning ambiguous problems into specs, data models, and systems that actually ship. My focus is **fintech**: payments infrastructure, risk, and the platforms behind them. I stay close to the code so product decisions stay grounded in what's technically real.
+I work across product, engineering, and business - translating user needs and business goals into specs and systems that ship. My focus is fintech: insurtech, payments, and the platforms behind them. I stay close to the code so product decisions stay grounded in what's technically feasible, and close to users so they stay grounded in what actually matters.
+
+---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zenith-nguyen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7dcfff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenith-nguyen&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=7aa2f7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenith-nguyen&hide_border=true&theme=tokyonight&stroke=7aa2f7&ring=7dcfff&fire=bb9af7&currStreakLabel=7aa2f7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenith-nguyen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zenith-nguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
 
 ---
 
@@ -28,7 +47,7 @@ An interactive, single-page coaching tool that guides job-seekers through writin
 ## Skills
 
 **Product & Platform**  
-Product Strategy · Requirements & Specs · Data Modelling · Cross-Functional Delivery · Platform Architecture · Payments & Risk Domain
+Product Strategy · Requirements & Specs · Data Modelling/User Modelling · Cross-Functional Delivery · Platform Architecture · Payments & Risk Domain
 
 **Engineering**  
 Python · TypeScript · React · Java · Spring Boot · Vite · REST APIs · Full-Stack Development
@@ -43,31 +62,6 @@ Data-Driven Experimentation · Graph ML (GraphSAGE · PyTorch Geometric) · OR-T
 - Published researcher — [ORCID 0009-0005-7621-7489](https://orcid.org/0009-0005-7621-7489)
 - Built a hybrid **LLM-as-proposer / solver-as-verifier** scheduler reviewed and praised by a Google software engineer
 - Comfortable across the stack: Python for ML/data, TypeScript/React for product, Java/Spring for enterprise domains
-
----
-
-**nhat.h.nguyen@realstake.io** · [ORCID](https://orcid.org/0009-0005-7621-7489)
-
----
-
-## By the numbers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zenith-nguyen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7dcfff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenith-nguyen&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=7aa2f7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenith-nguyen&hide_border=true&theme=tokyonight&stroke=7aa2f7&ring=7dcfff&fire=bb9af7&currStreakLabel=7aa2f7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenith-nguyen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zenith-nguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
 
 ---
 
