@@ -1,57 +1,56 @@
-# Hi, I'm Zenith 👋
+# Hi, I'm Zenith (Huy Nhat) 👋
 
-**Tech-driven Product Manager — Fintech · System Architecture, Data & Automation** · Ho Chi Minh City, Vietnam 🇻🇳
+**Tech-driven Product Manager — Fintech · Payments · Risk · Platform**  
+Ho Chi Minh City, Vietnam 🇻🇳
 
-I work at the intersection of **product and engineering** — turning ambiguous problems into systems that
-ship. I like living close to the code: modelling data flows, prototyping with LLMs, optimization and graph
-ML, then translating the results into product decisions. My focus area is **fintech** — payments, risk, and
-the platforms behind them.
-
-Currently doing **product & systems work in fintech** (RealStake / Infina), where a lot of my day is writing
-specs, shaping architecture, and automating the boring parts so teams move faster.
+I sit at the intersection of **product and engineering** — turning ambiguous problems into specs, data models, and systems that actually ship. My focus is **fintech**: payments infrastructure, risk, and the platforms behind them. I stay close to the code so product decisions stay grounded in what's technically real.
 
 ---
 
-### 🔧 What I build
+## RealStake / Infina — Insurtech & Fintech
 
-- **Product & systems** — translating fuzzy ideas into specs, data models, and architecture; writing the
-  product docs the whole team builds against.
-- **Applied ML & optimization** — a hybrid **LLM + OR-Tools (CP-SAT)** scheduler that lets language-model
-  agents propose plans while a solver guarantees feasibility; a **spatio-temporal GNN** (GraphSAGE + LSTM)
-  for anomaly detection on transaction networks.
-- **Fintech & security concepts** — a **Zero-Trust + blockchain** payment proof-of-concept, and a
-  full-stack **ERP** (Java / Spring Boot + Swing) for startup operations.
-- **Automation & data analytics** — turning manual workflows into repeatable, measurable pipelines.
-
-### 🚀 Featured projects
-
-- **[ICDAM](https://github.com/zenith-nguyen/ICDAM)** — Hybrid LLM + OR-Tools scheduler for RCPSP
-  benchmarks: agents propose, a CP-SAT solver verifies, repairs, and guarantees feasible schedules.
-- **[CTD_Scholars_GNN_Fintech](https://github.com/zenith-nguyen/CTD_Scholars_GNN_Fintech)** — GraphSAGE +
-  LSTM + autoencoder for anomaly detection on payment graphs (PyTorch Geometric).
-- **[zero-trust-blockchain-fintech-poc](https://github.com/zenith-nguyen/zero-trust-blockchain-fintech-poc)**
-  — Zero-Trust access control over a mock blockchain for P2P payments.
-- **[erp.mimi-manage-startups](https://github.com/zenith-nguyen/erp.mimi-manage-startups)** — Full-stack
-  ERP for startups: projects, payroll, Kanban, MoMo payments (Java 21 · Spring Boot · Swing).
-- **[Package-cv-portfolio](https://github.com/zenith-nguyen/Package-cv-portfolio)** — Interactive app that
-  coaches job-seekers to write ATS-ready CV bullets (React · TypeScript · Vite).
-
-### 📌 Highlights
-
-- 🧠 Built a hybrid **LLM-as-proposer / solver-as-verifier** scheduler — reviewed and praised by a software
-  engineer at **Google**.
-- 🔬 Published researcher — [ORCID 0009-0005-7621-7489](https://orcid.org/0009-0005-7621-7489).
-- ⚙️ Comfortable across the stack: Python for ML/optimization, TypeScript/React for product, Java/Spring for
-  enterprise domains.
-
-### 📫 Connect
-
-- ✉️ **nhat.h.nguyen@realstake.io**
-- 🔬 [ORCID](https://orcid.org/0009-0005-7621-7489)
+- Covered eKYC integration, digital contract signing, and bank-linking/payment flows — including fee structures, charge rules, and reconciliation logic with insurance partners
+- Designed UX flows and front-end specs; built n8n automation pipelines for AI chatbot data pre-processing
+- Managed project docs on GitHub; coordinated across dev, QA, AI engineering, accounting, and external partners
 
 ---
 
-### 📊 By the numbers
+## Project X Vietnam — CV Portfolio Survival Kit
+
+An interactive, single-page coaching tool that guides job-seekers through writing ATS-ready CV bullets.
+
+- Built the full product end-to-end: role-picking flow, adaptive workspace (advice adjusts by diagnostic level: starter → developing → ready), and a finished-bullet preview with mobile overlay
+- Role-specific content (action verbs, key skills, recruiter quotes) sourced from a structured data layer in `roleData.ts`
+- **Tech:** React 18 · TypeScript · Vite 6 · Tailwind CSS v4 · shadcn/ui (Radix) · Vercel Analytics
+
+---
+
+## Skills
+
+**Product & Platform**  
+Product Strategy · Requirements & Specs · Data Modelling · Cross-Functional Delivery · Platform Architecture · Payments & Risk Domain
+
+**Engineering**  
+Python · TypeScript · React · Java · Spring Boot · Vite · REST APIs · Full-Stack Development
+
+**Data & ML**  
+Data-Driven Experimentation · Graph ML (GraphSAGE · PyTorch Geometric) · OR-Tools / CP-SAT · LLM Prototyping
+
+---
+
+## Highlights
+
+- Published researcher — [ORCID 0009-0005-7621-7489](https://orcid.org/0009-0005-7621-7489)
+- Built a hybrid **LLM-as-proposer / solver-as-verifier** scheduler reviewed and praised by a Google software engineer
+- Comfortable across the stack: Python for ML/data, TypeScript/React for product, Java/Spring for enterprise domains
+
+---
+
+**nhat.h.nguyen@realstake.io** · [ORCID](https://orcid.org/0009-0005-7621-7489)
+
+---
+
+## By the numbers
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zenith-nguyen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=7dcfff" />
@@ -73,4 +72,3 @@ specs, shaping architecture, and automating the boring parts so teams move faste
 ---
 
 <p align="center"><sub>Python · PyTorch Geometric · OR-Tools · TypeScript · React · Java · Spring Boot · Vite</sub></p>
-
