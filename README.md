@@ -1,6 +1,6 @@
 # Hi, I'm Zenith (Huy Nhat) 👋
 
-**Tech-driven Product Manager — Fintech · User Centric, Business, Data & Automation**  
+**Tech-driven Product Manager - Fintech · User Centric, Business, Data & Automation**  
 Ho Chi Minh City, Vietnam 🇻🇳
 
 I work across product, engineering, and business - translating user needs and business goals into specs and systems that ship. My focus is fintech: insurtech, payments, and the platforms behind them. I stay close to the code so product decisions stay grounded in what's technically feasible, and close to users so they stay grounded in what actually matters.
@@ -26,15 +26,15 @@ I work across product, engineering, and business - translating user needs and bu
 
 ---
 
-## RealStake / Infina — Insurtech & Fintech
+## RealStake / Infina - Insurtech & Fintech
 
-- Covered eKYC integration, digital contract signing, and bank-linking/payment flows — including fee structures, charge rules, and reconciliation logic with insurance partners
+- Covered eKYC integration, digital contract signing, and bank-linking/payment flows - including fee structures, charge rules, and reconciliation logic with insurance partners
 - Designed UX flows and front-end specs; built n8n automation pipelines for AI chatbot data pre-processing
 - Managed project docs on GitHub; coordinated across dev, QA, AI engineering, accounting, and external partners
 
 ---
 
-## Project X Vietnam — CV Portfolio Survival Kit
+## Project X Vietnam - CV Portfolio Survival Kit
 
 An interactive, single-page coaching tool that guides job-seekers through writing ATS-ready CV bullets.
 
@@ -59,7 +59,7 @@ Data-Driven Experimentation · Graph ML (GraphSAGE · PyTorch Geometric) · OR-T
 
 ## Highlights
 
-- Published researcher — [ORCID 0009-0005-7621-7489](https://orcid.org/0009-0005-7621-7489)
+- Published researcher - [ORCID 0009-0005-7621-7489](https://orcid.org/0009-0005-7621-7489)
 - Built a hybrid **LLM-as-proposer / solver-as-verifier** scheduler reviewed and praised by a Google software engineer
 - Comfortable across the stack: Python for ML/data, TypeScript/React for product, Java/Spring for enterprise domains
 
