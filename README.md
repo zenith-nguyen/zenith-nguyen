@@ -1,6 +1,6 @@
 # Hi, I'm Zenith (Huy Nhat) 👋
 
-**Tech-driven Product Manager — Fintech · Payments · Risk · Platform**  
+**Tech-driven Product Manager — Fintech · User Centric, Business, Data & Automation**  
 Ho Chi Minh City, Vietnam 🇻🇳
 
 I sit at the intersection of **product and engineering** — turning ambiguous problems into specs, data models, and systems that actually ship. My focus is **fintech**: payments infrastructure, risk, and the platforms behind them. I stay close to the code so product decisions stay grounded in what's technically real.
