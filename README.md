@@ -15,10 +15,6 @@ I work across product, engineering, and business - translating user needs and bu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenith-nguyen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zenith-nguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
 ---
 
 ## RealStake / Infina - Insurtech & Fintech
