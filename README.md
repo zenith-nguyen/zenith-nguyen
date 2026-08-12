@@ -56,4 +56,4 @@ Data-Driven Experimentation · Graph ML (GraphSAGE · PyTorch Geometric) · OR-T
 
 ---
 
-<p align="center"><sub>Python · PyTorch Geometric · OR-Tools · TypeScript · React · Java · Spring Boot · Vite</sub></p>
+<p align="center"><sub>Contact: zenith.nguyen.biz@gmail.com</sub></p>
