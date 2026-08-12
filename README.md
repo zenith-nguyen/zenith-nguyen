@@ -17,15 +17,15 @@ I work across product, engineering, and business - translating user needs and bu
 
 ---
 
-## RealStake / Infina - Insurtech & Fintech  
-
+## RealStake / Infina - Insurtech & Fintech       
+ 
 - Covered eKYC integration, digital contract signing, and bank-linking/payment flows - including fee structures, charge rules, and reconciliation logic with insurance partners.
 - Designed UX flows and front-end specs; built n8n automation pipelines for AI chatbot data pre-processing.
-- Managed project docs on GitHub; coordinated across dev, QA, AI engineering, accounting, and external partners.     
+- Managed project docs on GitHub; coordinated across dev, QA, AI engineering, accounting, and external partners. 
 
 ---
 
-## Project X Vietnam - CV Portfolio Survival Kit
+## Project X Vietnam - CV Portfolio Survival Kit (R1 2026)
 
 An interactive, single-page coaching tool that guides job-seekers through writing ATS-ready CV bullets.
 
