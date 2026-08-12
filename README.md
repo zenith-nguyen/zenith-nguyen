@@ -8,7 +8,7 @@ I work across product, engineering, and business - translating user needs and bu
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zenith-nguyen&hide_border=true&theme=tokyonight&stroke=7aa2f7&ring=7dcfff&fire=bb9af7&currStreakLabel=7aa2f7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zenith-nguyen&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
