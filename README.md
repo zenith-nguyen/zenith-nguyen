@@ -40,7 +40,7 @@ Product Strategy · Requirements & Specs · Data Modelling/User Modelling · Cro
 Python · TypeScript · React · Java · Spring Boot · Vite · REST APIs · Full-Stack Development. 
 
 **Data & ML**  
-Data-Driven Experimentation · Graph ML (GraphSAGE · PyTorch Geometric) · OR-Tools / CP-SAT · LLM Prototyping.
+Data-Driven Experimentation · Graph ML (PyTorch Geometric) · OR-Tools / CP-SAT · LLM Prototyping · AI Agent 
 
 ---
 
