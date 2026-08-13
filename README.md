@@ -21,7 +21,7 @@ I work across product, engineering, and business - translating user needs and bu
 
 ---
 
-## Project X Vietnam - CV Portfolio Survival Kit (R1 2026)
+## Project X Vietnam - CV Portfolio Survival Kit (R1 2026)   
 
 An interactive, single-page coaching tool that guides job-seekers through writing ATS-ready CV bullets.
 
