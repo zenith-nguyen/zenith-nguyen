@@ -2,7 +2,7 @@
 
 **Tech-driven Product Manager - Fintech · User Centric, Business, Data & Automation**  
 Ho Chi Minh City, Vietnam 🇻🇳      
-
+     
 I work across product, engineering, and business - translating user needs and business goals into specs and systems that ship. My focus is fintech: insurtech, payments, and the platforms behind them. I stay close to the code so product decisions stay grounded in what's technically feasible, and close to users so they stay grounded in what actually matters.
 
 ---
