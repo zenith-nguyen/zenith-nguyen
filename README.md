@@ -37,7 +37,7 @@ An interactive, single-page coaching tool that guides job-seekers through writin
 Product Strategy · Requirements & Specs · Data Modelling/User Modelling · Cross-Functional Delivery · Platform Architecture · Payments & Risk Domain.
 
 **Engineering**  
-Python · TypeScript · React · Java · Spring Boot · Vite · REST APIs · Full-Stack Development.
+Python · TypeScript · React · Java · Spring Boot · Vite · REST APIs · Full-Stack Development. 
 
 **Data & ML**  
 Data-Driven Experimentation · Graph ML (GraphSAGE · PyTorch Geometric) · OR-Tools / CP-SAT · LLM Prototyping.
@@ -53,4 +53,4 @@ Data-Driven Experimentation · Graph ML (GraphSAGE · PyTorch Geometric) · OR-T
 
 ---
 
-<p align="center"><sub>Contact: zenith.nguyen.biz@gmail.com</sub></p>
+<p align="center"><sub> Contact: zenith.nguyen.biz@gmail.com </sub></p>
