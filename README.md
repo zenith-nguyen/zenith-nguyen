@@ -40,11 +40,11 @@ Product Strategy · Requirements & Specs · Data Modelling/User Modelling · Cro
 Python · TypeScript · React · Java · Spring Boot · Vite · REST APIs · Full-Stack Development. 
 
 **Data & ML**  
-Data-Driven Experimentation · Graph ML (PyTorch Geometric) · OR-Tools / CP-SAT · LLM Prototyping · AI Agent 
+Data-Driven Experimentation · SQL/R Studio · LLM Prototyping · AI Agent 
 
 ---
 
-## Highlights
+## Highlights  
 
 - Published researcher - [ORCID 0009-0005-7621-7489] (Link: https://orcid.org/0009-0005-7621-7489).
 - Built a hybrid **LLM-as-proposer / solver-as-verifier** scheduler reviewed and praised by a Google software engineer.
