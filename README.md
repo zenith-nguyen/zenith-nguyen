@@ -44,7 +44,7 @@ Data-Driven Experimentation · SQL/R Studio · LLM Prototyping · AI Agent
 
 ---
 
-## Highlights  
+## Highlights       
 
 - Published researcher - [ORCID 0009-0005-7621-7489] (Link: https://orcid.org/0009-0005-7621-7489).
 - Built a hybrid **LLM-as-proposer / solver-as-verifier** scheduler reviewed and praised by a Google software engineer.
