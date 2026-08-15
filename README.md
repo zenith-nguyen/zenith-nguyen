@@ -32,7 +32,7 @@ An interactive, single-page coaching tool that guides job-seekers through writin
 ---   
 
 ## Skills
-    
+        
 **Product & Platform**  
 Product Strategy · Requirements & Specs · Data Modelling/User Modelling · Cross-Functional Delivery · Platform Architecture · Payments & Risk Domain.
 
