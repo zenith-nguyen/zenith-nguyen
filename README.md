@@ -9,11 +9,11 @@ I work across product, engineering, and business - translating user needs and bu
       
 <p align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenith-nguyen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true" />
-</p>
+</p> 
 
 ---     
 
-## RealStake / Infina - Insurtech & Fintech       
+## Infina - Insurtech & Fintech       
     
 - Covered eKYC integration, digital contract signing, and bank-linking/payment flows - including fee structures, charge rules, and reconciliation logic with insurance partners.    
 - Designed UX flows and front-end specs; built n8n automation pipelines for AI chatbot data pre-processing.
