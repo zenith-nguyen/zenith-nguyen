@@ -46,10 +46,10 @@ Data-Driven Experimentation · SQL/R Studio · LLM Prototyping · AI Agent
 
 ## Highlights       
 
-- Published researcher - [ORCID 0009-0005-7621-7489] (Link: https://orcid.org/0009-0005-7621-7489).
+- Published researcher - [ORCID 0009-0005-7621-7489] (Link: https://orcid.org/0009-0005-7621-7489).   
 - Built a hybrid **LLM-as-proposer / solver-as-verifier** scheduler reviewed and praised by a Google software engineer.
 - Comfortable across the stack: Python for ML/data, TypeScript/React for product, Java/Spring for enterprise domains.
-- User Hypotheses: Create assumptions to build user models.
+- User Hypotheses: Create assumptions to build user models, and find insights.  
 
 ---
 
