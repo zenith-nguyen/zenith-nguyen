@@ -29,7 +29,7 @@ An interactive, single-page coaching tool that guides job-seekers through writin
 - Role-specific content (action verbs, key skills, recruiter quotes) sourced from a structured data layer in `roleData.ts`.
 - **Tech:** React 18 · TypeScript · Vite 6 · Tailwind CSS v4 · shadcn/ui (Radix) · Vercel Analytics.
 
----
+---   
 
 ## Skills
 
