@@ -30,7 +30,7 @@ An interactive, single-page coaching tool that guides job-seekers through writin
 - **Tech:** React 18 · TypeScript · Vite 6 · Tailwind CSS v4 · shadcn/ui (Radix) · Vercel Analytics.
 
 ---   
-
+     
 ## Skills    
         
 **Product & Platform**  
