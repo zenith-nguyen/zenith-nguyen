@@ -12,7 +12,7 @@ I work across product, engineering, and business - translating user needs and bu
 </p> 
 
 ---     
-
+     
 ## Infina - Insurtech & Fintech             
     
 - Covered eKYC integration, digital contract signing, and bank-linking/payment flows - including fee structures, charge rules, and reconciliation logic with insurance partners.    
