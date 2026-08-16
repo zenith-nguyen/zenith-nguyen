@@ -5,7 +5,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
         
 I work across product, engineering, and business - translating user needs and business goals into specs and systems that ship. My focus is fintech: insurtech, payments, and the platforms behind them. I stay close to the code so product decisions stay grounded in what's technically feasible, and close to users so they stay grounded in what actually matters.
    
----       
+---              
       
 <p align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenith-nguyen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true" />
